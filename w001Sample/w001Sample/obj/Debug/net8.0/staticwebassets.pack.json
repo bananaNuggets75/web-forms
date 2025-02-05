@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\MTCL\\web-forms\\w001Sample\\w001Sample\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\w001Sample.bundle.scp.css",
+      "PackagePath": "staticwebassets\\w001Sample.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\MTCL\\web-forms\\w001Sample\\w001Sample\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\MTCL\\web-forms\\w001Sample\\w001Sample\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\MTCL\\web-forms\\w001Sample\\w001Sample\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\MTCL\\web-forms\\w001Sample\\w001Sample\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.w001Sample.props",
+      "PackagePath": "build\\w001Sample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.w001Sample.props",
+      "PackagePath": "buildMultiTargeting\\w001Sample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.w001Sample.props",
+      "PackagePath": "buildTransitive\\w001Sample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.w001Sample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
