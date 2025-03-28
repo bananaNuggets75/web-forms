@@ -1,0 +1,41 @@
+﻿@page "/products"
+@inject IProductService ProductService
+<PageTitle>Students</PageTitle>
+<h3>Products</h3>
+@if (products.Count == 0)
+{
+    <p><em>Loading data.</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Type</th>
+                <th>Manufacturer</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var prod in products)
+            {
+                <tr>
+                    <td>@prod.id</td>
+                    <td>@prod.productName</td>
+                    <td>@prod.type</td>
+                    <td>@prod.manufacturer</td>
+                    <td>@prod.price.ToString()</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+@code {
+    List<Products> products = new List<Products>();
+    protected override async Task OnInitializedAsync()
+    {
+        products = await ProductService.GetAllProductsAsync();
+    }
+}

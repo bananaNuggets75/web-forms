@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/banananuggets/web-forms/Polgo_Products/obj/Debug/net8.0/scopedcss/projectbundle/Polgo_Products.bundle.scp.css",
+      "PackagePath": "staticwebassets/Polgo_Products.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/banananuggets/web-forms/Polgo_Products/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/banananuggets/web-forms/Polgo_Products/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/banananuggets/web-forms/Polgo_Products/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/banananuggets/web-forms/Polgo_Products/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Polgo_Products.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Polgo_Products.props",
+      "PackagePath": "build\\Polgo_Products.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Polgo_Products.props",
+      "PackagePath": "buildMultiTargeting\\Polgo_Products.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Polgo_Products.props",
+      "PackagePath": "buildTransitive\\Polgo_Products.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

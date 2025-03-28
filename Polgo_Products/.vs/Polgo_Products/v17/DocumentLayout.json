@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MTCL7-02\\Documents\\CSPE2300_POLGO\\Polgo_Products\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCC8E5-0E57-409B-AAAF-E087B2939BCC}|Polgo_Products.csproj|c:\\users\\mtcl7-02\\documents\\cspe2300_polgo\\polgo_products\\migrations\\20250326083413_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FCC8E5-0E57-409B-AAAF-E087B2939BCC}|Polgo_Products.csproj|solutionrelative:migrations\\20250326083413_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCC8E5-0E57-409B-AAAF-E087B2939BCC}|Polgo_Products.csproj|c:\\users\\mtcl7-02\\documents\\cspe2300_polgo\\polgo_products\\migrations\\20250326091423_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FCC8E5-0E57-409B-AAAF-E087B2939BCC}|Polgo_Products.csproj|solutionrelative:migrations\\20250326091423_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCC8E5-0E57-409B-AAAF-E087B2939BCC}|Polgo_Products.csproj|c:\\users\\mtcl7-02\\documents\\cspe2300_polgo\\polgo_products\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FCC8E5-0E57-409B-AAAF-E087B2939BCC}|Polgo_Products.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCC8E5-0E57-409B-AAAF-E087B2939BCC}|Polgo_Products.csproj|c:\\users\\mtcl7-02\\documents\\cspe2300_polgo\\polgo_products\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FCC8E5-0E57-409B-AAAF-E087B2939BCC}|Polgo_Products.csproj|solutionrelative:models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCC8E5-0E57-409B-AAAF-E087B2939BCC}|Polgo_Products.csproj|c:\\users\\mtcl7-02\\documents\\cspe2300_polgo\\polgo_products\\components\\pages\\studentsoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90FCC8E5-0E57-409B-AAAF-E087B2939BCC}|Polgo_Products.csproj|solutionrelative:components\\pages\\studentsoverview.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCC8E5-0E57-409B-AAAF-E087B2939BCC}|Polgo_Products.csproj|c:\\users\\mtcl7-02\\documents\\cspe2300_polgo\\polgo_products\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90FCC8E5-0E57-409B-AAAF-E087B2939BCC}|Polgo_Products.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCC8E5-0E57-409B-AAAF-E087B2939BCC}|Polgo_Products.csproj|c:\\users\\mtcl7-02\\documents\\cspe2300_polgo\\polgo_products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FCC8E5-0E57-409B-AAAF-E087B2939BCC}|Polgo_Products.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCC8E5-0E57-409B-AAAF-E087B2939BCC}|Polgo_Products.csproj|c:\\users\\mtcl7-02\\documents\\cspe2300_polgo\\polgo_products\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FCC8E5-0E57-409B-AAAF-E087B2939BCC}|Polgo_Products.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCC8E5-0E57-409B-AAAF-E087B2939BCC}|Polgo_Products.csproj|c:\\users\\mtcl7-02\\documents\\cspe2300_polgo\\polgo_products\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FCC8E5-0E57-409B-AAAF-E087B2939BCC}|Polgo_Products.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCC8E5-0E57-409B-AAAF-E087B2939BCC}|Polgo_Products.csproj|c:\\users\\mtcl7-02\\documents\\cspe2300_polgo\\polgo_products\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90FCC8E5-0E57-409B-AAAF-E087B2939BCC}|Polgo_Products.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FCC8E5-0E57-409B-AAAF-E087B2939BCC}|Polgo_Products.csproj|c:\\users\\mtcl7-02\\documents\\cspe2300_polgo\\polgo_products\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90FCC8E5-0E57-409B-AAAF-E087B2939BCC}|Polgo_Products.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 216,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250326091423_Second.cs",
+              "DocumentMoniker": "C:\\Users\\MTCL7-02\\Documents\\CSPE2300_POLGO\\Polgo_Products\\Migrations\\20250326091423_Second.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250326091423_Second.cs",
+              "ToolTip": "C:\\Users\\MTCL7-02\\Documents\\CSPE2300_POLGO\\Polgo_Products\\Migrations\\20250326091423_Second.cs",
+              "RelativeToolTip": "Migrations\\20250326091423_Second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T09:14:23.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\MTCL7-02\\Documents\\CSPE2300_POLGO\\Polgo_Products\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\MTCL7-02\\Documents\\CSPE2300_POLGO\\Polgo_Products\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:43:28.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\MTCL7-02\\Documents\\CSPE2300_POLGO\\Polgo_Products\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\MTCL7-02\\Documents\\CSPE2300_POLGO\\Polgo_Products\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:38:53.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsOverview.razor",
+              "DocumentMoniker": "C:\\Users\\MTCL7-02\\Documents\\CSPE2300_POLGO\\Polgo_Products\\Components\\Pages\\StudentsOverview.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\StudentsOverview.razor",
+              "ToolTip": "C:\\Users\\MTCL7-02\\Documents\\CSPE2300_POLGO\\Polgo_Products\\Components\\Pages\\StudentsOverview.razor",
+              "RelativeToolTip": "Components\\Pages\\StudentsOverview.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T08:35:44.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250326083413_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\MTCL7-02\\Documents\\CSPE2300_POLGO\\Polgo_Products\\Migrations\\20250326083413_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250326083413_Initial.cs",
+              "ToolTip": "C:\\Users\\MTCL7-02\\Documents\\CSPE2300_POLGO\\Polgo_Products\\Migrations\\20250326083413_Initial.cs",
+              "RelativeToolTip": "Migrations\\20250326083413_Initial.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:34:13.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MTCL7-02\\Documents\\CSPE2300_POLGO\\Polgo_Products\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MTCL7-02\\Documents\\CSPE2300_POLGO\\Polgo_Products\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:26:36.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MTCL7-02\\Documents\\CSPE2300_POLGO\\Polgo_Products\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\MTCL7-02\\Documents\\CSPE2300_POLGO\\Polgo_Products\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T08:22:13.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\MTCL7-02\\Documents\\CSPE2300_POLGO\\Polgo_Products\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "Models\\Products.cs",
+              "ToolTip": "C:\\Users\\MTCL7-02\\Documents\\CSPE2300_POLGO\\Polgo_Products\\Models\\Products.cs",
+              "RelativeToolTip": "Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:12:45.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\MTCL7-02\\Documents\\CSPE2300_POLGO\\Polgo_Products\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\MTCL7-02\\Documents\\CSPE2300_POLGO\\Polgo_Products\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T08:15:27.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\MTCL7-02\\Documents\\CSPE2300_POLGO\\Polgo_Products\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\MTCL7-02\\Documents\\CSPE2300_POLGO\\Polgo_Products\\Components\\_Imports.razor",
+              "RelativeToolTip": "Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T08:34:49.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\MTCL7-02\\Documents\\CSPE2300_POLGO\\Polgo_Products\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\MTCL7-02\\Documents\\CSPE2300_POLGO\\Polgo_Products\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T09:00:45.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
